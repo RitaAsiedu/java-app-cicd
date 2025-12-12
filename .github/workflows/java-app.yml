@@ -2,7 +2,7 @@ name: java api App CI/CD
 
 on:
  pull_request:
-    brances:
+    branches:
       - main
       - dev
   push:
